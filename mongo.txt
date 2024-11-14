@@ -1,5 +1,0 @@
-username=yanndeukam
-password=SU0ArJR1YnZ4FWtE
-mongodb+srv://yanndeukam:SU0ArJR1YnZ4FWtE@cluster0.odmve.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
-mongodb+srv://yanndeukam:<db_password>@cluster0.odmve.mongodb.net/
